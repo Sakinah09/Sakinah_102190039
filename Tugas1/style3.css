@@ -1,0 +1,39 @@
+body {
+    font-family: monospace;
+    background:rgb(74, 248, 55);
+    margin:0px;
+    color: black;
+}
+
+a {
+    color:olivedrab;
+    font-size:20px;
+    font-weight: bold;
+    font-style: italic;
+    padding-left: 30px;
+}
+img { 
+    width:400px;
+}
+header {
+    background: white;
+    padding: 10px;
+}
+
+.satuSD {
+    padding: 40px;
+    position: relative;
+    display: grid;
+    grid-template-columns: 500px auto;
+    padding: 50px;
+}
+
+h2 {
+    margin:0;padding:0;
+    padding: 2em;
+    color:black;
+    display:block;
+    font-size:1.4em;
+    margin-bottom:1em;
+    
+}

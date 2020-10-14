@@ -1,0 +1,33 @@
+h2{
+    color: midnightblue;
+}
+p{
+color: navy;
+font-size: medium;
+}
+.kotak1{
+
+    background-color: cornflowerblue;
+    width: 100px;
+    border: 20px solid darkcyan;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 100px;
+}
+.kotak2{
+    background-color: mediumorchid;
+    width: 500px;
+    border: 20px solid mediumseagreen;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin: 50px;
+}
+body{
+    background-image: url("gb3.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
